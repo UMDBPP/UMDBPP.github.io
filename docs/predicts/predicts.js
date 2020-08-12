@@ -257,7 +257,7 @@ async function setCustomLaunchLocation(click_event) {
         }]
     };
 
-    let api_url = API_URLS['CUSF'];
+    let api_url = API_URLS['lukerenegar'];
 
     let custom_launch_location_predict_layer = await getPredictLayer(api_url, CUSTOM_LAUNCH_LOCATION_NAME, null, click_longitude, click_latitude);
     MAP.addLayer(custom_launch_location_predict_layer);

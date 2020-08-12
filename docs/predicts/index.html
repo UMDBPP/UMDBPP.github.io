@@ -34,17 +34,20 @@
         <section style="border-style: groove;">
             <label for="ascent_rate">Ascent Rate (m/s)</label>
 
-            <input id="ascent_rate" onchange="updatePredictLayers()" style="width: 6ch;" title="expected average ascent rate" type="number" value="5.5">
+            <input id="ascent_rate" onchange="updatePredictLayers()" required="required" style="width: 6ch;" title="expected average ascent rate" type="number"
+                   value="5.5">
         </section>
         <section style="border-style: groove;">
             <label for="burst_altitude">Burst Altitude (m)</label>
 
-            <input id="burst_altitude" onchange="updatePredictLayers()" style="width: 8ch;" title="expected burst altitude" type="number" value="28000">
+            <input id="burst_altitude" onchange="updatePredictLayers()" required="required" style="width: 8ch;" title="expected burst altitude" type="number"
+                   value="28000">
         </section>
         <section style="border-style: groove;">
             <label for="sea_level_descent_rate">S.L. Descent Rate (m/s)</label>
 
-            <input id="sea_level_descent_rate" onchange="updatePredictLayers()" style="width: 6ch;" title="expected descent rate (at sea level)" type="number" value="9">
+            <input id="sea_level_descent_rate" onchange="updatePredictLayers()" required="required" style="width: 6ch;" title="expected descent rate (at sea level)"
+                   type="number" value="9">
         </section>
         <button id="calculate_button" onclick="updatePredictLayers()" style="background-color: #4caf50; border: none; color: white; font-weight: bold;">Fetch</button>
     </section>
@@ -69,7 +72,7 @@
         let next_saturday = new Date();
         next_saturday.setDate(today.getDate() + (7 + 6 - today.getDay()) % 7);
         let prediction_end = new Date();
-        prediction_end.setDate(today.getDate() + 8);
+        prediction_end.setDate(today.getDate() + 7);
 
         let date_input = document.getElementById('launch_date');
         date_input.value = next_saturday.toISOString().split('T')[0];

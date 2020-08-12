@@ -1,4 +1,3 @@
-[submodule "www/scripts/leaflet-groupedlayercontrol"]
-	path = www/scripts/leaflet-groupedlayercontrol
+[submodule "docs/_/scripts/leaflet-groupedlayercontrol"]
+	path = docs/_/scripts/leaflet-groupedlayercontrol
 	url = https://github.com/AcrossTheCloud/leaflet-groupedlayercontrol.git
-	branch = gh-pages

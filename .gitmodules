@@ -1,0 +1,3 @@
+[submodule "_/scripts/leaflet-groupedlayercontrol"]
+	path = _/scripts/leaflet-groupedlayercontrol
+	url = https://github.com/AcrossTheCloud/leaflet-groupedlayercontrol.git

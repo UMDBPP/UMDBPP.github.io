@@ -18,12 +18,12 @@ add_style('/assets/styles/header.css');
 add_style('/assets/styles/footer.css');
 
 let body = document.querySelector('body');
-fetch('/_/header.html').then(response => {
+fetch('/assets/header.html').then(response => {
     return response.text();
 }).then(header => {
     body.innerHTML = header + body.innerHTML;
 });
-fetch('/_/footer.html').then(response => {
+fetch('/assets/footer.html').then(response => {
     return response.text();
 }).then(footer => {
     body.innerHTML += footer;

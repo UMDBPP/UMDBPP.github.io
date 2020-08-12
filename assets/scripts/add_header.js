@@ -17,7 +17,7 @@ function add_style(filename) {
 add_style('/assets/styles/header.css');
 
 let body = document.querySelector('body');
-fetch('/_/header.html').then(response => {
+fetch('/assets/header.html').then(response => {
     return response.text();
 }).then(header => {
     body.innerHTML = header + body.innerHTML;

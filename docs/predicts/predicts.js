@@ -8,7 +8,7 @@ let CUSTOM_LAUNCH_LOCATION_LAYER;
 const CUSTOM_LAUNCH_LOCATION_NAME = 'custom launch location';
 
 const API_URLS = {
-    'CUSF': 'http://predict.cusf.co.uk/api/v1/', 'lukerenegar': 'https://predict.lukerenegar.com/api/v1.1/'
+    'CUSF': 'https://predict.cusf.co.uk/api/v1/', 'lukerenegar': 'https://predict.lukerenegar.com/api/v1.1/'
 };
 
 OVERLAY_LAYERS['reference']['McDonald\'s Locations'] = MCDONALDS_LOCATIONS_LAYER;

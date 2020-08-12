@@ -11,6 +11,8 @@ const API_URLS = {
     'CUSF': 'https://predict.cusf.co.uk/api/v1/', 'lukerenegar': 'https://predict.lukerenegar.com/api/v1.1/'
 };
 
+const API_SOURCE = 'lukerenegar';
+
 OVERLAY_LAYERS['reference']['McDonald\'s Locations'] = MCDONALDS_LOCATIONS_LAYER;
 OVERLAY_LAYERS['reference']['Launch Locations'] = LAUNCH_LOCATIONS_LAYER;
 OVERLAY_LAYERS['predicts'] = {};
@@ -146,7 +148,7 @@ async function updatePredictLayers(resize = false) {
         ACTIVE_PREDICT_LAYERS = LAYER_CONTROL.getActiveOverlayLayers()['predicts'];
     }
 
-    let api_url = API_URLS['CUSF'];
+    let api_url = API_URLS[API_SOURCE];
     let launch_locations_features = LAUNCH_LOCATIONS_LAYER.getLayers();
 
     /* add custom launch location if it exists */
@@ -257,7 +259,7 @@ async function setCustomLaunchLocation(click_event) {
         }]
     };
 
-    let api_url = API_URLS['lukerenegar'];
+    let api_url = API_URLS[API_SOURCE];
 
     let custom_launch_location_predict_layer = await getPredictLayer(api_url, CUSTOM_LAUNCH_LOCATION_NAME, null, click_longitude, click_latitude);
     MAP.addLayer(custom_launch_location_predict_layer);

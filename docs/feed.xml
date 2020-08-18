@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UMD Nearspace</title>
+    <description>We are the official High-Altitude Balloon Research Program of the University of Maryland&#39;s A. James Clark School of Engineering. We provide access to near space environments for research projects from several universities and have conducted over 50 successful launches.
+</description>
+    <link>http://nearspace.umd.edu/blog/</link>
+    <atom:link href="http://nearspace.umd.edu/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 28 Jan 2017 00:14:22 -0500</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2017 00:14:22 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>NS-59 Announcement</title>
+        <description>&lt;p&gt;Our second launch of the semester is scheduled to take place on October 29, around 8:00 AM from Clear Springs, MD, weather permitting.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://nearspace.umd.edu/blog/ns-59/2016/10/12/NS-59-announcement.html</link>
+        <guid isPermaLink="true">http://nearspace.umd.edu/blog/ns-59/2016/10/12/NS-59-announcement.html</guid>
+        
+        
+        <category>NS-59</category>
+        
+      </item>
+    
+      <item>
+        <title>Ns 58 Launch_announcement</title>
+        <description>
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “NS-58 Launch Announcement”
+date:   2016-09-07 00:00:00 -0400
+categories: NS-58&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Fall semester has arrived! The first launch of the semester is scheduled to take place on September 17, around 8:00 AM from Clear Springs, MD, weather permitting.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The current payload lineup is Helios, an altitude control system, Command Module, the main tracking and telemetry system, Bach’s Box, the weather payload, IRENE, a radiation-measuring payload, SCORCH / MARS, two cut-down payloads, DataPigeon, a droppable data carrier, and Cloud360, a cloud-centric CapTech payload.&lt;/p&gt;
+
+&lt;p&gt;Join Us! Balloon Launch Details&lt;/p&gt;
+
+&lt;p&gt;When:&lt;/p&gt;
+
+&lt;p&gt;Saturday, September 17, 2016&lt;/p&gt;
+
+&lt;p&gt;Where:&lt;/p&gt;
+
+&lt;p&gt;Clear Spring Elementary School
+12627 Broadfording Rd
+Clear Spring, Maryland 21722&lt;/p&gt;
+
+&lt;p&gt;Questions?&lt;/p&gt;
+
+&lt;p&gt;Contact Dr. Mary Bowden&lt;/p&gt;
+
+&lt;p&gt;Email: bowden@umd.edu&lt;/p&gt;
+
+&lt;p&gt;Phone: (301) 275-7723&lt;/p&gt;
+
+&lt;p&gt;Live Updates&lt;/p&gt;
+
+&lt;p&gt;You can follow our live tweetup of the launch day here.&lt;/p&gt;
+
+&lt;p&gt;You can also track us on the APRS website using UMD’s callsign: W3EAX-8.&lt;/p&gt;
+
+&lt;p&gt;The NearSpace High Altitude Balloon Team thanks the Maryland Space Grant for its continued support and effort to make our program possible.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://nearspace.umd.edu/blog/2016/09/07/NS-58-launch_announcement.html</link>
+        <guid isPermaLink="true">http://nearspace.umd.edu/blog/2016/09/07/NS-58-launch_announcement.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ns 57 Launch_results</title>
+        <description>
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “NS-57 Launch Results”
+date:   2016-08-13 00:00:00 -0400
+categories: NS-57&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;There’s little the team wouldn’t do for the Nearspace program (including climbing a steep 250-foot hill in the rain!) and on Saturday, July 30, 2016, the team was put to the test.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/posts/2016-08-13-NS-57-launch_results/NS-57_recovery_team.jpg&quot; alt=&quot;For Science!&quot; class=&quot;right_img&quot; height=&quot;426px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Trekking up a 250 foot hill to recover the payloads.&lt;/p&gt;
+
+&lt;p&gt;NS-57 began a little earlier than the typical launch.  There were some predictions for rain later in the afternoon so as a result, the team left the SSL parking lot at 4:00 AM, skipping the traditional McDonalds breakfast visit.&lt;/p&gt;
+
+&lt;p&gt;Learning from NS-56, the team decided to do a Balloon Launch Tube (BLT) hybrid launch to measure the lift in the 3000g balloon before launching.  Unfortunately, after measuring the lift, the team had to make an executive decision to remove HABScope in order to ensure a successful flight.  The current hypothesis as to why we did not develop enough lift is that there might have been some leakage in the filling process.  After release, the balloon rose at a respectable 5 m/s.&lt;/p&gt;
+
+&lt;p&gt;Chase and Recovery&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/posts/2016-08-13-NS-57-launch_results/NS-57_ground_track.png&quot; alt=&quot;Ground Track&quot; class=&quot;right_img&quot; height=&quot;426px&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Graphic courtesy of Zach Burnett
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And… we have launch!  The balloon took off from Clear Springs, Maryland and headed north into Pennsylvania.  Rising to a final altitude of about 103’000 feet, the balloon popped around Greencastle, Pennslyvania, landing in Michaux State Forest.&lt;/p&gt;
+
+&lt;p&gt;Recovering the balloon brought a couple challenges of its own.  While the tracking team roughly pinpointed the balloon’s location, the team had to load up the radios to get a better location of the payload string.  About a mile later, the team was able to get radio contact with the payloads and homed in on their location using the trails to get as close as possible.&lt;/p&gt;
+
+&lt;p&gt;Retrieving the payloads required about a couple miles of bush-whacking through rain, lightning, steep terrain, and thick underbrush, but the team (and the payloads) all made it back safely if somewhat wet.  Based on a recommendation from Ranger Ted Ottinger, who was helping us, the team then enjoyed a well-deserved lunch at the Flamingo Restaurant right outside the state park.&lt;/p&gt;
+
+&lt;p&gt;Photos!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/posts/2016-08-13-NS-57-launch_results/NS-57_soaked.png&quot; alt=&quot;Soaked!&quot; class=&quot;right_img&quot; height=&quot;426px&quot; /&gt;
+A photo of the NS-57 team after getting hit by a rainstorm accompanied by ranger Ted (far left).&lt;/p&gt;
+
+&lt;p&gt;All photos below are from Tyrion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/posts/2016-08-13-NS-57-launch_results/NS-57_on_the_launch_pad.jpg&quot; alt=&quot;On the launch pad&quot; class=&quot;right_img&quot; height=&quot;426px&quot; /&gt;
+On the Launch Pad&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/posts/2016-08-13-NS-57-launch_results/NS-57_102kft.jpg&quot; alt=&quot;102,000ft&quot; class=&quot;right_img&quot; height=&quot;426px&quot; /&gt;
+At 102’000 feet!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/posts/2016-08-13-NS-57-launch_results/NS-57_descent.jpg&quot; alt=&quot;Descent&quot; class=&quot;right_img&quot; height=&quot;426px&quot; /&gt;
+Descent.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Aug 2016 00:00:00 -0400</pubDate>
+        <link>http://nearspace.umd.edu/blog/2016/08/13/NS-57-launch_results.html</link>
+        <guid isPermaLink="true">http://nearspace.umd.edu/blog/2016/08/13/NS-57-launch_results.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Countdown to NS-57</title>
+        <description>&lt;p&gt;Well folks, its almost time for NS-57! The payloads are busy being tested to ensure they’ll perform in the extreme flight environment they’ll be subjected to. This flight we have the following payloads on the lineup:&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;helios&quot;&gt;HELIOS&lt;/h2&gt;
+&lt;p&gt;Helios, the altitude control system, returns!  Flying with a modified and lighter iteration, Helios will be releasing helium at around 65’000 feet.&lt;/p&gt;
+
+&lt;h2 id=&quot;cmd&quot;&gt;CMD&lt;/h2&gt;
+&lt;p&gt;Command Module is the main tracking and telemetry payload for every flight.  CMD also serves as the link from the balloon string to the ground station.&lt;/p&gt;
+
+&lt;h2 id=&quot;mini-bachs-box&quot;&gt;mini-Bach’s Box&lt;/h2&gt;
+&lt;p&gt;A reduced version of Bach’s Box, this payload will demonstrate an moisture sensor.&lt;/p&gt;
+
+&lt;h2 id=&quot;cloud360&quot;&gt;Cloud360&lt;/h2&gt;
+&lt;p&gt;Cloud360, a CapTech payload, focuses on the acidity of moistures in clouds.  This payload will be flying a 360-degree camera and aerogel to record the clouds and collect particulate matter.&lt;/p&gt;
+
+&lt;h2 id=&quot;irene&quot;&gt;IRENE&lt;/h2&gt;
+&lt;p&gt;IRENE (Ionizing Radiation Exposure Nearspace Experiment) will measure beta and gamma radiation as it rises through the atmosphere to compare with a peak in radiation seen in another experiment.&lt;/p&gt;
+
+&lt;h2 id=&quot;scorch&quot;&gt;SCORCH&lt;/h2&gt;
+&lt;p&gt;SCORCH returns after NS-55 to test its cut-down method this launch!&lt;/p&gt;
+
+&lt;h2 id=&quot;habscope&quot;&gt;HABScope&lt;/h2&gt;
+&lt;p&gt;HABScope is a proof-of-concept low-cost telescope.  Costing well under 200 dollars, HABScope includes a COTS telescope, a raspberry pi IR camera, and a custom built attitude control system.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Jul 2016 00:00:00 -0400</pubDate>
+        <link>http://nearspace.umd.edu/blog/ns-57/2016/07/28/NS-57-countdown.html</link>
+        <guid isPermaLink="true">http://nearspace.umd.edu/blog/ns-57/2016/07/28/NS-57-countdown.html</guid>
+        
+        
+        <category>NS-57</category>
+        
+      </item>
+    
+      <item>
+        <title>NS-56 Results - Low Altitude Flight!</title>
+        <description>&lt;p&gt;Sometimes, not everything goes according to plan and NS-56 is evidence of just that.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ci3.googleusercontent.com/proxy/Tr8MVw1F2yJUrTsSF8QGmx0N0rkR2PVUNp7b1Pp-HKfggnCq74wE9u7NuWx08rg33ntD6UaEkDliZU9SgtIFrH1h5IQK1Wjex_c586O_LIkHkSwERdUFMamm-puMASg=s0-d-e1-ft#http://i2.cmail19.com/ei/i/F0/AE4/91F/csimport/IMG_9960-Edited.183623.jpg&quot; alt=&quot;In a tree!&quot; class=&quot;right_img&quot; height=&quot;426px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was just like any summer launch: a beautiful sunrise with partly cloudy skies and temperatures in the high 80s.  After inflating our 3000g balloon and tying in our payloads, the balloon took off from Clear Springs Elementary School at around 8:20 AM with an estimated burst altitude of above 100’000 feet and a flight time of 2 hours.&lt;/p&gt;
+
+&lt;p&gt;However, right after release, the team members and guests of the Nearspace High Altitude Balloon Program noticed the balloon slowly floating at an ascent rate of approximately 3 ft/sec! Revised predictions had an estimated flight time of 6 hours traveling over Washington D.C. and possibly out to sea!  Fortunately, the balloon’s ascent rate dropped before reaching 2’000 feet and the team was able to recover the balloon within 6 miles of Clear Springs after a half hour chase.&lt;/p&gt;
+
+&lt;p&gt;The simple explanation is that we didn’t have enough Helium in the balloon to lift all the payloads.  It was a somewhat heavier string of payloads than usual, with 9 distinct boxes including 2 cut-down modules, 3 environmental sensing payloads, 2 engineering demos, and a telescope.&lt;/p&gt;
+
+&lt;p&gt;Despite the short and low altitude flight, several payloads were still successful. The team was able to fill the balloon through the Helios payload, GANONDORF (Gravity Assisted Nearspace Operations Node for Downward Oriented Release and Fall), the mechanical cut-down, activated successfully and dropped Data Pigeon, and finally, videos, pictures, and data were obtained even on this short flight.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ci3.googleusercontent.com/proxy/Y6SE46yl1zhUJHPlhpzAL1Cct0mwWlEV-1JEUDJKMb2rruMMs2DVM6vcDg-rTMdxngF75TzM8TG9PXgiut-SOLeCwjExjIuEHoKJx0bPDPRNMQc5bSKruQ=s0-d-e1-ft#http://i3.cmail19.com/ei/i/F0/AE4/91F/csimport/altvtime.145641.png&quot; alt=&quot;Altitude Plot&quot; class=&quot;right_img&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Graph Courtesy of Nick Rossomando&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 -0400</pubDate>
+        <link>http://nearspace.umd.edu/blog/ns-56/2016/07/27/NS-56-results.html</link>
+        <guid isPermaLink="true">http://nearspace.umd.edu/blog/ns-56/2016/07/27/NS-56-results.html</guid>
+        
+        
+        <category>NS-56</category>
+        
+      </item>
+    
+  </channel>
+</rss>
